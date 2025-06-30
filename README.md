@@ -23,6 +23,23 @@
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🧱 Project Structure
 
 ```plaintext
@@ -74,18 +91,6 @@ A3DWidget.java: Handles the widget display logic
 
 widget_info.xml: Declares widget dimensions, preview layout, and configuration activity
 
-🧑‍💻 Developer
-  Amarjeet Kumar
-  Email: ak7462514@gmail.com
-  GitHub: https://github.com/AmarjeetJyotis
-
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want me to include screenshots, instructions for publishing the widget, or anything specific from your source code.
